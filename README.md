@@ -21,8 +21,10 @@ also groq model because it is free
 👨‍⚖️Install libraries
 
 ```bash
+##create New Python Environment##
     1. python -m venv venv
- 
+
+## install all Required libraries and packages##
     2. pip install -r requirement.txt
 ```
     
