@@ -47,7 +47,8 @@ outputParser is used to parse the AI message in a `readable` format using the `S
 #### Get all API keys
 
 ```http    
-  Langchain settings Page 
+  Langchain settings Page
+  Grok Console
 ```
 Links to get them
 
