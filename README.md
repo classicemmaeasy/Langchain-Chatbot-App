@@ -11,7 +11,7 @@ I will use any llm for the backend, since langchain support any  variety of llm
 also groq model because it is free
 
 
-## Authors
+## Author
 
 - [@EmmanuelAwogbindin](https://www.linkedin.com/in/emmanuel-awogbindin-42174321b/)
 
@@ -28,7 +28,7 @@ also groq model because it is free
     
 ![Logo](https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/5_83DdPYD-thumbnail_webp-600x300.webp)
 
-I will use any llm for the backend, since langchain support any  variety of llm 
+I can use any llm for the backend, since langchain support any  variety of llm 
 
 also groq model because it is free
 
