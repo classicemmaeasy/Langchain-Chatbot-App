@@ -1,6 +1,7 @@
 
 # Langchain app
  Building a chatbot with Langchain.
+ 
 Langchain is a framework for building llm Application 
 
 For a Langhchain Chains, there are three components:
@@ -67,7 +68,7 @@ Links to get them
 
 To run this project, you will need to add the following environment variables to your .env file
 
-if you are setting it directly
+if you are setting it up directly in your code use:
 
 `os.environ['LANGCHAIN_API_KEY']=<your_api_key>`
 
@@ -75,7 +76,7 @@ if you are setting it directly
 
 `os.environ['LANGCHAIN_PROJECT']=<your_project_name>`
 
-if you are using .env file (this's what i use):
+if you are using .env file:
 
 `LANGCHAIN_API_KEY=<your_api_key>`
 
@@ -84,9 +85,10 @@ if you are using .env file (this's what i use):
 `LANGCHAIN_PROJECT="BID-Chat"`
 
 `GROQ_API_KEY=<your_api_key>`
+#input your api key there
 ## Feedback
 
-If you have setup all the libraries and the environment, yo can head over to [langchain smith project](smith.langchain.com/project), to see how the chain is performing 
+If you have setup all the libraries and the environment, you can head over to [langchain smith project](smith.langchain.com/project), to see how the chain is performing 
 
 ## Deployment
 
