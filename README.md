@@ -2,14 +2,18 @@
 # Langchain app
  Building a chatbot with Langchain.
  
-Langchain is a framework for building llm Application 
+Langchain is a framework for building LLM Application that allow user to ask a question from the LLM and get responses Realtime.
 
-For a Langhchain Chains, there are three components:
-LLMs, Prompts,Output Parsers.
+Langchain facilitates the building of Chatbot, it is designed to simplify the development of applications that utilize large language models (LLMs).
 
-I will use any llm for the backend, since langchain support any  variety of llm 
+LLMs can only give information on what it is being trained on, but Langchain helps in the building of chatbot that access and utilize external data sources to generate more relevant and accurate domain specific information.
 
-also groq model because it is free
+There are three components that makes up a langchain chain:
+LLMs, Prompts, Output Parsers.
+
+We can use any llm for the backend, since langchain support any  variety of llm 
+
+For the purpose of this project I will be using the groq model because it is free
 
 
 ## Author
@@ -31,9 +35,6 @@ also groq model because it is free
     
 ![Logo](https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/5_83DdPYD-thumbnail_webp-600x300.webp)
 
-I can use any llm for the backend, since langchain support any  variety of llm 
-
-also groq model because it is free
 
 *Prompt is the first step in the chain, it takes dictionary of parameters and returns a string. In this case we are using `ChatPromptTemplate` to create custom prompt template. It takes tuples, where the first element is the role of themessage and the second element is the content of the message.
 
