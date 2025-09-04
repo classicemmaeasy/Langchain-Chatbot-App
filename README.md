@@ -1,6 +1,9 @@
 
 # Langchain app
- Building a chatbot with Langchain.
+ AI chatbot with Langchain.
+ I built this contextual aware chatbot that understand previous conversation and follow up with questions been asked with in the same conversation and as a result the chatbot can answer questions seemlessly and follow (preambles) which is a set of instruction given to the LLM (Gemini, Mistral or GPT-3.5) which guide the LLM on how it should answer. Example (" you are professional content writer with wealth of experience of the years, create .....").
+
+ This project help me to understand how LLM actually works and the intricacies behind it
  
 Langchain is a framework for building LLM Application that allow user to ask a question from the LLM and get responses Realtime.
 
